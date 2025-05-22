@@ -157,9 +157,4 @@ Please see CONTRIBUTING.md for details on our code of conduct and the process fo
 
 This project is proprietary and confidential. Unauthorized copying or distribution is prohibited.
 
-## Contact
 
-For questions regarding this project or to request access to the model registry, please contact:
-
-- **Exicom EV Solutions Team**: ev-solutions@exicom.in
-- **Technical Support**: support@exicom.in
