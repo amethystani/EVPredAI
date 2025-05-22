@@ -1,0 +1,53 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directories
+node_modules
+.venv
+venv/
+__pycache__/
+.env
+
+# Distribution directories
+dist
+dist-ssr
+
+# Local environment files
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Model files and large data files
+*.joblib
+*.model
+*.pkl
+*.h5
+*.mp4
+*.parquet
+model/
+cache/
+uploads/
+
+# Keep specific JSON files
+*.json
+!package.json
+!package-lock.json
+!components.json
+!jsconfig.json
+!tailwind.config.js
+!vite.config.js
