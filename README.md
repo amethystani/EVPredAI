@@ -1,6 +1,6 @@
 # Exicom EVPredAI - Advanced EV Charging Station Predictor
 
-![EVPredAI Dashboard](screenshots/image3.png)
+![EVPredAI Dashboard](public/image3.png)
 
 This application leverages cutting-edge machine learning algorithms and geospatial analysis to help users find optimal EV charging stations and provides intelligent recommendations tailored to Exicom's charging infrastructure.
 
@@ -16,7 +16,7 @@ EVPredAI is a sophisticated decision support system that combines real-time geos
 - **Interactive Map Visualization**: Dynamic visualization of charging stations with demand heatmaps
 - **Natural Language Interface**: AI-powered chatbot for intuitive user interactions
 
-![AI Chatbot](screenshots/image2.png)
+![AI Chatbot](public/image2.png)
 
 ## Technical Architecture
 
@@ -30,7 +30,7 @@ Our location prediction algorithm employs a sophisticated ensemble approach that
 
 2. **Spatial Autocorrelation Analysis**: Implements Moran's I and LISA statistics to identify spatial clusters and patterns in charging demand
 
-![Proximity Analysis](screenshots/image.png)
+![Proximity Analysis](public/image.png)
 
 3. **Time Series Forecasting**: Incorporates SARIMA models to account for temporal variations in charging demand
 
@@ -50,7 +50,7 @@ The system includes a specialized NLP model fine-tuned specifically for Exicom's
 - **Intent Classification**: Optimized for understanding complex user queries related to charging station availability, compatibility, and technical specifications
 - **Context-Aware Responses**: Maintains conversation state to provide coherent multi-turn interactions
 
-![Amenities Selection](screenshots/image4.png)
+![Amenities Selection](public/image4.png)
 
 ## Model Files (Not Included in Repository)
 
